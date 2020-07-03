@@ -17,11 +17,6 @@
   z-index: -1;
 }
 
-radio .wx-radio-input.wx-radio-input-checked{
-  background-color: #888888;
-  border: 1px solid #777777;
-}
-
 .button-display {
   font-weight: normal;
   width: 30%;
@@ -48,4 +43,5 @@ radio .wx-radio-input.wx-radio-input-checked{
   justify-content: center;
   margin: 40rpx;
   color: grey;
+  text-shadow:1px 1px 1px #999999;
 }

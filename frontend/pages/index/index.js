@@ -22,7 +22,7 @@ Page({
       },
     ]
   },
-  
+
   chooseType: function () {
     this.data.typeG ^= 1;
     console.log(this.data.typeG);
